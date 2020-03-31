@@ -1,1 +1,1 @@
-export { default } from './screens/per2';
+export { default } from './screens/iyas';

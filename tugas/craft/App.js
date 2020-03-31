@@ -1,1 +1,1 @@
-export { default } from './screens/scroll';
+export { default } from './screens/event';
